@@ -1,0 +1,1 @@
+Next.js admin panel will be implemented here.
